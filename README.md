@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Celine! <br>I'm a Computer Science student at the University of Toronto.
+Hi, I'm Celine! <br>I'm a student studying Computer Science, Statistics and Maths at the University of Toronto.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celine-c-04854725b/)

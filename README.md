@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Celine! <br>I'm a Computer Science student at the University of Toronto.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celine-c-04854725b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:celinesy.chen@mail.utoronto.ca)

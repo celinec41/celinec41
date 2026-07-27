@@ -10,16 +10,19 @@ Hi, I'm Celine! <br>I'm a student studying Computer Science, Statistics and Math
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=celinec41&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Celine's GitHub stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=celinec41&show_icons=true&theme=tokyonight"
+  alt="Celine's GitHub stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinec41&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Celine's most used languages"/>
+<br>
 
-<br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=celinec41&theme=tokyonight&hide_border=true" alt="Celine's GitHub streak"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinec41&layout=compact&theme=tokyonight"
+  alt="Celine's most used languages"
+/>
 
 </div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=celinec41&icon=0&color=0)](https://visitcount.itsvg.in)
 
